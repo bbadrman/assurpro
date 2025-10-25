@@ -63,7 +63,7 @@ const HeroSection = () => {
                   iconName="Phone"
                   iconPosition="left">
 
-                  +212 5XX XX XX XX
+                  +212 611 11 22 24
                 </Button>
               </div>
 
@@ -87,7 +87,7 @@ const HeroSection = () => {
             {/* Right Content - Hero Image */}
             <div className="relative animate-slide-up">
               <div className="relative">
-                <div className="absolute inset-0 bg-gradient-to-t from-primary/20 to-transparent rounded-2xl"></div>
+                <div className="absolute inset-0  to-transparent rounded-2xl"></div>
                 <Image
                   src="https://images.unsplash.com/photo-1684575411281-50e3a2e3f27b"
                   alt="Professional Moroccan taxi driver in traditional white shirt standing confidently next to modern silver sedan vehicle in urban Casablanca setting"

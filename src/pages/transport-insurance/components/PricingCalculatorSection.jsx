@@ -305,7 +305,7 @@ const PricingCalculatorSection = () => {
                     iconPosition="left"
                     className="text-accent border-accent hover:bg-accent hover:text-white"
                   >
-                    +212 5XX XX XX XX
+                    +212 611 11 22 24
                   </Button>
                   
                   <Button

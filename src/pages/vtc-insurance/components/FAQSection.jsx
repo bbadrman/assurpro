@@ -49,7 +49,7 @@ const FAQSection = () => {
         },
         {
           question: 'Comment déclarer un sinistre rapidement ?',
-          answer: `Plusieurs moyens sont à votre disposition 24h/7j :\n\n• Application mobile ProAssure : déclaration en 3 clics avec photos\n• Espace client web : formulaire détaillé avec suivi en temps réel\n• Téléphone : +212 5XX XX XX XX (ligne dédiée VTC)\n• Email : sinistres-vtc@proassure.ma\n\nNotre équipe sinistres VTC vous recontacte dans les 2h et un expert peut se déplacer dans les 24h partout au Maroc. Le véhicule de remplacement est organisé en parallèle pour minimiser l'interruption de votre activité.`
+          answer: `Plusieurs moyens sont à votre disposition 24h/7j :\n\n• Application mobile ProAssure : déclaration en 3 clics avec photos\n• Espace client web : formulaire détaillé avec suivi en temps réel\n• Téléphone : +212 611 11 22 24 (ligne dédiée VTC)\n• Email : sinistres-vtc@proassure.ma\n\nNotre équipe sinistres VTC vous recontacte dans les 2h et un expert peut se déplacer dans les 24h partout au Maroc. Le véhicule de remplacement est organisé en parallèle pour minimiser l'interruption de votre activité.`
         }
       ]
     }
@@ -142,7 +142,7 @@ const FAQSection = () => {
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <button className="bg-accent text-gray-900 px-6 py-3 rounded-lg font-medium hover:bg-accent/90 transition-colors duration-200 flex items-center justify-center space-x-2">
                 <Icon name="Phone" size={18} />
-                <span>+212 5XX XX XX XX</span>
+                <span>+212 611 11 22 24</span>
               </button>
               <button className="bg-white/20 text-white px-6 py-3 rounded-lg font-medium hover:bg-white/30 transition-colors duration-200 flex items-center justify-center space-x-2">
                 <Icon name="Mail" size={18} />

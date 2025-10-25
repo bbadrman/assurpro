@@ -52,7 +52,7 @@ const Header = () => {
               <Icon name="Shield" size={24} color="white" strokeWidth={2.5} />
             </div>
             <div className="flex flex-col">
-              <span className="text-xl font-bold text-primary font-sans">ProAssure</span>
+              <span className="text-xl font-bold text-primary font-sans">BadrAssurance</span>
               <span className="text-xs text-muted-foreground font-medium -mt-1">Protection Professionnelle</span>
             </div>
           </Link>
@@ -84,7 +84,7 @@ const Header = () => {
               iconPosition="left"
               className="text-primary border-primary hover:bg-primary hover:text-white"
             >
-              +212 5XX XX XX XX
+              +212 611 11 22 24
             </Button>
             <Button
               variant="default"
@@ -144,7 +144,7 @@ const Header = () => {
                 iconPosition="left"
                 className="text-primary border-primary hover:bg-primary hover:text-white"
               >
-                +212 5XX XX XX XX
+                +212 611 11 22 24
               </Button>
               <Button
                 variant="default"

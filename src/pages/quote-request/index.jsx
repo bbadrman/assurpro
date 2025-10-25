@@ -343,7 +343,7 @@ const QuoteRequest = () => {
                     <Icon name="Phone" size={16} className="text-primary mt-1" />
                     <div>
                       <p className="font-medium text-gray-800">Appelez-nous</p>
-                      <p className="text-sm text-gray-600">+212 5XX XX XX XX</p>
+                      <p className="text-sm text-gray-600">+212 611 11 22 24</p>
                       <p className="text-xs text-gray-500">Lun-Ven 9h-18h</p>
                     </div>
                   </div>

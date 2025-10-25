@@ -106,7 +106,7 @@ const VTCInsurance = () => {
               <div>
                 <h4 className="font-semibold mb-4">Contact</h4>
                 <div className="space-y-2 text-gray-400">
-                  <div>+212 5XX XX XX XX</div>
+                  <div>+212 611 11 22 24</div>
                   <div>contact@proassure.ma</div>
                   <div>Casablanca, Maroc</div>
                 </div>

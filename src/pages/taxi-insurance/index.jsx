@@ -110,7 +110,7 @@ const TaxiInsurance = () => {
               <div>
                 <h4 className="font-semibold mb-4">Contact</h4>
                 <div className="space-y-2 text-gray-300">
-                  <p>+212 5XX XX XX XX</p>
+                  <p>+212 611 11 22 24</p>
                   <p>contact@proassure.ma</p>
                   <p>Lun-Ven: 8h-20h<br />Sam: 9h-17h</p>
                 </div>

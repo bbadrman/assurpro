@@ -78,7 +78,7 @@ const Footer = () => {
             <div className="space-y-3">
               <div className="flex items-center space-x-3">
                 <Icon name="Phone" size={18} className="text-accent" />
-                <span className="text-gray-300">+212 5XX XX XX XX</span>
+                <span className="text-gray-300">+212 611 11 22 24</span>
               </div>
               <div className="flex items-center space-x-3">
                 <Icon name="Mail" size={18} className="text-accent" />

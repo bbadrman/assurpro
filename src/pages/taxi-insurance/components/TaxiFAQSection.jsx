@@ -48,7 +48,7 @@ const TaxiFAQSection = () => {
       faqs: [
         {
           question: "Comment déclarer un sinistre rapidement ?",
-          answer: `Plusieurs moyens de déclaration 24h/24 :\n\n• Téléphone : +212 5XX XX XX XX (ligne dédiée taxi)\n• Application mobile ProAssure\n• Site web : formulaire en ligne\n• Email : sinistres.taxi@proassure.ma\n• Agences : réseau national\n\nInformations à préparer :\n• Numéro de contrat\n• Date, heure et lieu de l'accident\n• Circonstances détaillées\n• Constat amiable si possible\n• Photos des dégâts\n• Témoignages éventuels\n\nDélai de déclaration : 5 jours ouvrés maximum (24h pour le vol)`
+          answer: `Plusieurs moyens de déclaration 24h/24 :\n\n• Téléphone : +212 611 11 22 24 (ligne dédiée taxi)\n• Application mobile ProAssure\n• Site web : formulaire en ligne\n• Email : sinistres.taxi@proassure.ma\n• Agences : réseau national\n\nInformations à préparer :\n• Numéro de contrat\n• Date, heure et lieu de l'accident\n• Circonstances détaillées\n• Constat amiable si possible\n• Photos des dégâts\n• Témoignages éventuels\n\nDélai de déclaration : 5 jours ouvrés maximum (24h pour le vol)`
         },
         {
           question: "Combien de temps pour le règlement d\'un sinistre ?",
@@ -182,7 +182,7 @@ const TaxiFAQSection = () => {
                 <div className="flex flex-col sm:flex-row gap-3">
                   <button className="bg-white text-primary hover:bg-gray-100 font-semibold py-3 px-6 rounded-lg transition-colors duration-200 flex items-center justify-center space-x-2">
                     <Icon name="Phone" size={18} />
-                    <span>+212 5XX XX XX XX</span>
+                    <span>+212 611 11 22 24</span>
                   </button>
                   <button className="bg-accent hover:bg-accent/90 text-gray-800 font-semibold py-3 px-6 rounded-lg transition-colors duration-200 flex items-center justify-center space-x-2">
                     <Icon name="MessageSquare" size={18} />

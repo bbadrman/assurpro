@@ -249,7 +249,7 @@ const TaxiRequirementsSection = () => {
                 <div className="inline-flex items-center justify-center w-24 h-24 bg-white/20 rounded-full mb-4">
                   <Icon name="HeadphonesIcon" size={40} color="white" />
                 </div>
-                <div className="text-2xl font-bold">+212 5XX XX XX XX</div>
+                <div className="text-2xl font-bold">+212 611 11 22 24</div>
                 <div className="text-white/80">Support dédié taxi</div>
               </div>
             </div>

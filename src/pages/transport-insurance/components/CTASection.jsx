@@ -10,7 +10,7 @@ const CTASection = () => {
     icon: "Phone",
     title: "Appelez-nous",
     description: "Conseil immédiat avec nos experts",
-    action: "+212 5XX XX XX XX",
+    action: "+212 611 11 22 24",
     color: "text-primary"
   },
   {
